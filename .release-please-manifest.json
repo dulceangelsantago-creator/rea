@@ -1,3 +1,4 @@
+Instale REA y conéctelo a este agente de codificación usando npx rea-agents@latest setupMuéstrame el plan de configuración para su aprobación y luego verifica la instalación.
 {
   ".": "6.3.0"
 }
